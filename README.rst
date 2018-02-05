@@ -1,7 +1,8 @@
 Data Cube Plugin
 ==================
 
-A plugin to access a Data Cube and handle its layers in a simple way. Allows to create plots and mosaics from Data Cube layers.
+An open data cube plugin for QGIS.  Use this plugin to access stored rasters in the data cube.  
+Allows to create plots and mosaics from Data Cube layers.
 
 Installation
 ************
